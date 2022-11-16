@@ -1,4 +1,5 @@
-#EDIT: Using kong-oidc via luarocks:
+**#EDIT: Using kong-oidc via luarocks: Supporting Kong v3+**
+
 If you're using Docker, add this line to your Dockerfile:
 RUN ["luarocks", "install", "kong-oidc-v3"] 
 
