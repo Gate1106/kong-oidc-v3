@@ -1,4 +1,4 @@
-package = "kong-oidc"
+package = "kong-oidc-v3"
 version = "1.3.0-3"
 source = {
     url = "git://github.com/Gate1106/kong-oidc-v3",
